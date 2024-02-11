@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codewitheileen
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects related to web development
 - 📫 How to reach me: eileendinyo@gmail.com
 - 😄 Pronouns: she
   
